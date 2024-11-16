@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-HELLOHELLOHELLO
+title: HIHIHIHI
 ---
 
